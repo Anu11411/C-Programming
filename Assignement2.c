@@ -5,7 +5,7 @@ int main()
     // int a,b,c;
     // printf("Enter three numbers :");
     // scanf("%d %d %d",&a,&b,&c);
-    // printf("Average of %d,%d and %d is %d ",a,b,c,(a+b+c)/3);
+    // printf("Average of %d,%d and %d is %f ",a,b,c,(a+b+c)/3.0);
 
     // //Q2
     // float r;
